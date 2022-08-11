@@ -1,0 +1,19 @@
+.mainContainer{
+    width: 300px;
+    height: 300px;
+    margin: 40px auto;
+    border: 2px solid black;
+}
+
+.images img{
+    width: 280px;
+    height: 280px;
+}
+.texting{
+    color: black;
+    font-size: 12px;
+    font-weight: bold;
+}
+.innerContainer{
+    margin: 10px;
+}
